@@ -1,3 +1,4 @@
 # ignore Data Directory
 MNIST/
+data_mnist/
 .ipynb_checkpoints/
