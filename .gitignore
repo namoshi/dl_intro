@@ -2,4 +2,5 @@
 MNIST/
 data_mnist/
 data/
+images/
 .ipynb_checkpoints/
